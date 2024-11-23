@@ -1,0 +1,14 @@
+[
+  {
+    "nombre_usuario": "Juan Perez",
+    "cantidad_de_platos": 3,
+    "costo": 50,
+    "pago": "Yape"
+  },
+  {
+    "nombre_usuario": "Maria Lopez",
+    "cantidad_de_platos": 2,
+    "costo": 30,
+    "pago": "Efe"
+  }
+]
